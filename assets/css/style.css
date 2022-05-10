@@ -138,18 +138,18 @@ body::before {
     color: #737373;
 }
 
-.sing_up {
+.sign_up {
     color: #737373;
     font-size: 16px;
 }
 
-.sing_up a {
+.sign_up a {
     color: #fff;
     font-size: 16px;
     text-decoration: none;
 }
 
-.sing_up a:hover {
+.sign_up a:hover {
     text-decoration: underline;
 }
 
