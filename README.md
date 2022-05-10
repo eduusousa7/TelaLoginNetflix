@@ -13,4 +13,4 @@
   
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   
-  <h2>Visualização do Site: <h2>
+  <h2>Visualização do Site: https://eduusousa7.github.io/TelaLoginNetflix.io/ <h2>
