@@ -4,7 +4,7 @@
   
   <h2>Visualização:<h2>
   
-  ![2022-05-09 (3)](https://user-images.githubusercontent.com/98124493/167535785-32511a5c-6869-4728-92ca-0ca87e2afaae.png)
+  ![2022-05-09 (5)](https://user-images.githubusercontent.com/98124493/167538415-342bc726-237e-452c-a90b-8df6cea87ca2.png)
   
   <h2>Neste projeto foram utilizadas as seguintes ferramentas:<h2>
 
